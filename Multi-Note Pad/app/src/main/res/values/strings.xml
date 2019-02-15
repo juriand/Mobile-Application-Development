@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="note_file">note_file</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No file</string>
+    <string name="no_title_save">The un-titled note is not saved!</string>
+    <string name="saved">Note saved</string>
+</resources>
